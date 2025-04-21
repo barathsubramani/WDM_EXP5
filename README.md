@@ -123,13 +123,13 @@ if __name__ == "__main__":
 
 ### Output:
 ## AND
-![model]("1.png")
+![model](1.png)
 
 ## OR
-![model]("2.png")
+![model](2.png)
 
 ## NOT
-![model]("3.png")
+![model](3.png)
 
 ### Result:
 Thus, To implement Information Retrieval Using Boolean Model in Python has been executed sucessfully.
