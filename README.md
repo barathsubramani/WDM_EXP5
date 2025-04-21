@@ -1,5 +1,6 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 
+### NAME: Barath S
+### DATE: 21-04-2025
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
